@@ -8,7 +8,7 @@ In a file called `einstein.py`, implement a program in Python that prompts the u
 ??? Tip
     - Recall that `input` returns a `str`, per [input](https://docs.python.org/3/library/functions.html#input).
     - Recall that a `str` comes with quite a few methods, per [string-methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
-    - Recall that Python comes with several built-in functions, per [functions](docs.python.org/3/library/functions.html).
+    - Recall that Python comes with several built-in functions, per [functions](https://docs.python.org/3/library/functions.html).
 
 ## Before You Begin
 

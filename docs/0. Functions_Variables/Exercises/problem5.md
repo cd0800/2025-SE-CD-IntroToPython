@@ -48,7 +48,7 @@ Assume that the user will input values in the expected formats.
 ??? Tip
     - Recall that `input` returns a `str`, per [input](https://docs.python.org/3/library/functions.html#input).
     - Recall that a `str` comes with quite a few methods, per [string-methods](https://docs.python.org/3/library/stdtypes.html#string-methods).
-    - Recall that `float` can convert a `str` to a `float`, per [float](docs.python.org/3/library/functions.html#float).
+    - Recall that `float` can convert a `str` to a `float`, per [float](https://docs.python.org/3/library/functions.html#float).
 
 ## Before You Begin
 

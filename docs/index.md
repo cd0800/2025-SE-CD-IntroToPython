@@ -4,6 +4,33 @@ This is an adaptation of the CS50 Introduction to Python course from Harvard. Th
 
 ## Getting Started
 
+To get started with the course, follow these steps:
+
+1. Create a new repository by using this template on GitHub. 
+
+    !!! success "Naming Convention for Repositories"
+        - Follow the naming convention `<year>-<subject>-<your_initials>-IntroToPython` for your forked repository.
+        - For example, `2025-11SEO4-AB-IntroToPython`
+
+    ![GitHub Template](./images/github_template.png)
+
+2. Complete the details of the repository. Ensure that:
+    - The owner is set to `KillarneyHeightsHS`.
+    - You provide a description
+    - The repository is set to private.
+
+    ![GitHub Repository Details](./images/github_repo_details.png)
+    then click on **Create repository**.
+
+### Codespaces
+The quickest way to get started is to use github codespaces. If you are a student it is strongly advised to sign up to [GitHub Education](https://education.github.com/discount_requests/application?type=student). You will get a Free GitHub Pro account giving you more resources and tools to work with Python. The key one being 180 hours per month with Codespaces. mean you can develop and learn from you PC, Laptop or iPad without the need to install development tools like Python or VS Code locally.
+
+The attached video shows how you can start this project with Codespace.
+
+[![Codespaces](./images/codespaces.png)](https://youtu.be/RFZ22h48v30)
+
+### Desktop
+
 !!! Note "Different Operating Systems"
     Depending on which operating system you are using, the terminal or command prompt may look different.
 
@@ -12,21 +39,19 @@ This is an adaptation of the CS50 Introduction to Python course from Harvard. Th
 
     In all examples I will not use a prompt to make it easier to copy the command.
 
-To get started with the course, follow these steps:
 
-1. Fork this repository on GitHub. 
+2. Clone your new repository to you local machine using GitHub Web, GitHub Desktop or the command line.
 
-    !!! success "Naming Convention for Repositories"
-        - Follow the naming convention `<year>-<subject>-<your_initials>-IntroToPython` for your forked repository.
-        - For example, `2025-11SEO4-AB-IntroToPython`
+    ![Clone Repository](./images/open_with_desktop.png)
 
-    `need images`
+3. Ensure that you have python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 
-2. Clone your new repository to you local machine using GitHub Desktop or the command line.
-
-    `need images`
-
-3. Ensure that you have python installed on your local machine. You can download it from [python.org](https://www.python.org/downloads/).
+4. Ensure that pip is installed.
+    - [Installation of pip](https://pip.pypa.io/en/stable/installation/)
+    
+    If you have issues see: 
+    
+    - ['pip' is not recognized](https://builtin.com/software-engineering-perspectives/pip-command-not-found)
 
 4. Open a terminal or command prompt and navigate to the root directory of your repository and type:
 
@@ -46,7 +71,7 @@ The repository is structured as follows:
 
 ## Course Basics
 
-The intention is for you to start from [Lesson 0](./Functions_Variables/index.md) and work through each lesson in order. Each lesson will have a corresponding set of exercises or problems that you should complete. The solutions to these exercises should be placed in the `src/` directory. As an example, if you are working on the Indoor voice problem from [Lesson 0](./Functions_Variables/Exercises/problem1.md), your solutions should be placed in `src/lesson_0/indoor.py`.
+The intention is for you to start from [Lesson 0](./0.%20Functions_Variables/index.md) and work through each lesson in order. Each lesson will have a corresponding set of exercises or problems that you should complete. The solutions to these exercises should be placed in the `src/` directory. As an example, if you are working on the Indoor voice problem from [Lesson 0](./0.%20Functions_Variables/Exercises/problem1.md), your solutions should be placed in `src/lesson_0/indoor.py`.
 
 ## Submission
 
@@ -55,7 +80,7 @@ The intention is for you to start from [Lesson 0](./Functions_Variables/index.md
 
 If you want to confirm that your code is working correctly, you can run the tests in the `tests/` directory using the following command from the root directory.
 
-For example, if you want to check that your code is working correctly for the `indoor()` method from [Lesson 0](./Functions_Variables/Exercises/problem1.md), you can run:
+For example, if you want to check that your code is working correctly for the `indoor()` method from [Lesson 0](./0.%20Functions_Variables/Exercises/problem1.md), you can run:
 
 ```bash
 pytest -k "indoor"

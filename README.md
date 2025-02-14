@@ -4,6 +4,6 @@ Adaptation of the [CS50 Introduction to Python from Harvard](https://cs50.harvar
 
 # Getting Started
 
-
+Visit https://killarneyheightshs.github.io/IntroToPython/ for information on how to use these materials
 
 
