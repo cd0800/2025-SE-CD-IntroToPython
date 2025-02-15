@@ -1,6 +1,7 @@
 # Conditionals
 
-Watch the [Conditionals](#) video (0:55hr).
+## Video
+[![Conditionals](../images/conditionals.png)](https://www.youtube.com/watch?v=_b6NgY_pMdw){:target="_blank"} (0:55hr)
 
 ## Dictionary of Terms
 
@@ -10,7 +11,7 @@ Watch the [Conditionals](#) video (0:55hr).
 4. Boolean
 5. `if` statement
 6. `if else` statement
-7. `if else if` statement
+7. `if elif else` statement
 8. `or` `and` `not` conditions
 9. modulo operator
 10. match case (switch case)
