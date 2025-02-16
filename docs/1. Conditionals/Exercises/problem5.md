@@ -88,15 +88,15 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 #### Codespace terminal 
 
-At the /lesson_1/bank $ prompt in your terminal:
+At the `/lesson_1/meal $` prompt in your terminal:
 ```
 git add -A 
 ```
 Add all changed files in the repository to be committed
 ```
-git commit -m "Upload completed bank.py"
+git commit -m "Upload completed meal.py"
 ```
-Commit all changes in the REPO with the comment “Upload completed bank.py“ note: If the file is not complete, adjust the comment to describes what is being committed
+Commit all changes in the REPO with the comment “Upload completed meal.py“ note: If the file is not complete, adjust the comment to describes what is being committed
 ```
 git push 
 ```
