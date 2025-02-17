@@ -6,21 +6,22 @@ This is an adaptation of the CS50 Introduction to Python course from Harvard. Th
 
 To get started with the course, follow these steps:
 
-1. Create a new repository by using this template on GitHub. 
+1. Fork this repository by clicking the "Fork" button on GitHub. This will create a copy of the repository in your own account.
+
 
     !!! success "Naming Convention for Repositories"
         - Follow the naming convention `<year>-<subject>-<your_initials>-IntroToPython` for your forked repository.
         - For example, `2025-11SEO4-AB-IntroToPython`
 
-    ![GitHub Template](./images/github_template.png)
+    ![Creating a Fork](./images/creating_a_fork.png)
 
 2. Complete the details of the repository. Ensure that:
     - The owner is set to `KillarneyHeightsHS`.
-    - You provide a description
-    - The repository is set to private.
+    - You have used the naming convention above for your repository.
 
-    ![GitHub Repository Details](./images/github_repo_details.png)
-    then click on **Create repository**.
+    ![GitHub Repository Details](./images/fork_the_repo.png)
+
+    then click on **Fork repository**.
 
 ### Codespaces
 The quickest way to get started is to use github codespaces. If you are a student it is strongly advised to sign up to [GitHub Education](https://education.github.com/discount_requests/application?type=student). You will get a Free GitHub Pro account giving you more resources and tools to work with Python. The key one being 180 hours per month with Codespaces. mean you can develop and learn from you PC, Laptop or iPad without the need to install development tools like Python or VS Code locally.
