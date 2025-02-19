@@ -1,6 +1,6 @@
 # Overview
 
-This is an adaptation of the CS50 Introduction to Python course from Harvard. The course covers the basics of Python programming, including data types, control structures, functions, and more.
+This is an adaptation of the [CS50 Introduction to Python](https://cs50.harvard.edu/python/2022/) course from Harvard. The course covers the basics of Python programming, including data types, control structures, functions, and more. It also includes additional sections that align with the [NSW Stage 6 Software Engineering](https://curriculum.nsw.edu.au/learning-areas/tas/software-engineering-11-12-2022/overview) curriculum.
 
 ## Getting Started
 
