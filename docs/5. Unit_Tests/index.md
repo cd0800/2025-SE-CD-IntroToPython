@@ -4,7 +4,7 @@
 
 [![Unit Tests](../images/unit_tests.png)](https://www.youtube.com/watch?v=tIrcxwLqzjQ){:target="_blank"} (0:50hr)
 
-### Unit Tests
+## Unit Tests
 
 - Up until now, you have been likely testing your own code using `print` statements.
 - Alternatively, you may have been relying upon CS50 to test your code for you!
@@ -304,7 +304,7 @@ Notice that we are creating a test just as we did before.
 - Now, typing `pytest test` in the terminal, you can run the entire `test` folder of code.
 - You can learn more in Pytest’s documentation of [import mechanisms](https://docs.pytest.org/en/stable/explanation/pythonpath.html).
 
-### Summing Up
+## Summing Up
 
 - Testing your code is a natural part of the programming process. Unit tests allow you to test specific aspects of your code. You can create your own programs that test your code. Alternatively, you can utilise frameworks like `pytest` to run your unit tests for you. 
 
