@@ -1,4 +1,4 @@
-# Notes
+# DataTypes
 
 ## Char (character) and String
 
