@@ -1,4 +1,4 @@
-# Conditionals
+# Notes
 
 ## Video
 [![Conditionals](../images/conditionals.png)](https://www.youtube.com/watch?v=_b6NgY_pMdw){:target="_blank"} (0:55hr)

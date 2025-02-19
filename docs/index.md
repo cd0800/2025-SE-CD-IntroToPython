@@ -38,7 +38,7 @@ The attached video shows how you can start this project with Codespace.
     - On Windows, you may see `C:\Users\username\github\IntroToPython>`.
     - On Linux or Mac, you may see `$` or `%`.
 
-    In all examples I will not use a prompt to make it easier to copy the command.
+    In all examples I will avoid using a prompt to make it easier to copy the command.
 
 
 2. Clone your new repository to you local machine using GitHub Web, GitHub Desktop or the command line.

@@ -1,4 +1,4 @@
-# Functions & Variables
+# Notes
 
 ## Video
 [![Functions & Variables](../images/functions_and_variables.png)](https://www.youtube.com/watch?v=JP7ITIXGpHk){:target="_blank"}  (1:45hr)

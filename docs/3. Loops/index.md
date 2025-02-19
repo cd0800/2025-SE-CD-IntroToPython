@@ -1,4 +1,10 @@
-# Loops
+# Notes
+
+## Video
+
+[![Loops](../images/loops.png)](https://www.youtube.com/watch?v=-7xg8pGcP6w){:target="_blank"}  (1:20hr)
+
+## Loops
 
 - Essentially, `loops` are a way to do something over and over again.
 - Begin by typing `code cat.py` in the terminal window.
