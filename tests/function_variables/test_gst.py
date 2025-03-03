@@ -1,5 +1,5 @@
 import pytest
-from lesson_0.gst import calculate_gst
+from function_variables.gst import calculate_gst
 
 testdata = [
     ('$100', '10%', 10.0),

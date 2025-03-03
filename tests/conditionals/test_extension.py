@@ -1,5 +1,5 @@
 import pytest
-from lesson_1.extension import extension
+from conditionals.extension import extension
 
 testdata = [
     ('happy.jpg','image/jpeg'),

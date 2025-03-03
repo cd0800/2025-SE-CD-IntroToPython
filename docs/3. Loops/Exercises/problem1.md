@@ -50,7 +50,7 @@ preferred_first_name
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_camel.py
+pytest .\tests\loops\test_camel.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -73,7 +73,7 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 ### Codespace terminal 
 
-At the `/lesson_2/camel $` prompt in your terminal:
+At the `/loops/camel $` prompt in your terminal:
 ```
 git add -A 
 ```

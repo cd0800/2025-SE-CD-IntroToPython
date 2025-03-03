@@ -1,5 +1,5 @@
 import pytest
-from lesson_1.deep import deep_thought
+from conditionals.deep import deep_thought
 
 testdata = [
     ('42', True),

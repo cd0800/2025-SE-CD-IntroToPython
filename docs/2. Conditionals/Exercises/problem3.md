@@ -17,9 +17,9 @@ If the file’s name ends with some other suffix or has no suffix at all, output
 
 ## Before You Begin
 
-From the root of your repository execute cd `lesson_1` So your current working directory is ...
+From the root of your repository execute cd `conditionals` So your current working directory is ...
 ```
-/lesson_1 $:
+/conditionals $:
 ```
 Next execute
 ```
@@ -49,7 +49,7 @@ Be sure to test each of the other file formats, vary the casing of your input, a
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_extensions.py
+pytest .\tests\conditionals\test_extensions.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -72,7 +72,7 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 #### Codespace terminal 
 
-At the /lesson_1/bank $ prompt in your terminal:
+At the /conditionals/bank $ prompt in your terminal:
 ```
 git add -A 
 ```

@@ -1,5 +1,5 @@
 import pytest
-from lesson_2.camel import camel_to_snake
+from loops.camel import camel_to_snake
 
 testdata = [
     ('name', 'name'),

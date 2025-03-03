@@ -1,4 +1,4 @@
-from lesson_0.playback import playback
+from function_variables.playback import playback
 
 string_input = "This is Killarney Heights!"
 string_output = "This...is...Killarney...Heights!"

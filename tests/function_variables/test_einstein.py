@@ -1,5 +1,5 @@
 import pytest
-from lesson_0.einstein import relativity
+from function_variables.einstein import relativity
 
 testdata = [
     (1, 90000000000000000),

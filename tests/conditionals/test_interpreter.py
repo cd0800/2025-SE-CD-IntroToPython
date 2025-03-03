@@ -1,5 +1,5 @@
 import pytest
-from lesson_1.interpreter import calculate
+from conditionals.interpreter import calculate
 
 testdata = [
     ('1','+','1',2.0),

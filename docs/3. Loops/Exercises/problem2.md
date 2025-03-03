@@ -10,13 +10,13 @@ In a file called `ginger_beer_machine.py`, implement a program that prompts the 
     The commandline supports tab completion. You can use tab to complete commands or filenames after typing the first few characters of a command or filename.
 
 ## Before You Begin
-From the root of your repository execute `cd src/lesson_2` So your current working directory is ...		
+From the root of your repository execute `cd src/loops` So your current working directory is ...		
 ```
-src/lesson_2 $:
+src/loops $:
 ```
 Next execute
 ```
-code coke.py
+code ginger_beer_machine.py
 ```
 to make a file called `ginger_beer_machine.py` where you’ll write your program.
 
@@ -29,19 +29,19 @@ Amount Due: 25
 ```
 and continue prompting the user for coins.
 
-2. Run your program with python coke.py. At your `Insert Coin`: prompt, type `10` and press Enter. Your program should output:
+2. Run your program with `python ginger_beer_machine.py`. At your `Insert Coin`: prompt, type `10` and press Enter. Your program should output:
 ```
 Amount Due: 40
 ```
 and continue prompting the user for coins.
 
-3. Run your program with python coke.py. At your `Insert Coin`: prompt, type `5` and press Enter. Your program should output:
+3. Run your program with `python ginger_beer_machine.py`. At your `Insert Coin`: prompt, type `5` and press Enter. Your program should output:
 ```
 Amount Due: 45
 ```
 and continue prompting the user for coins.
 
-4. Run your program with python coke.py. At your `Insert Coin`: prompt, type `30` and press Enter. Your program should output:
+4. Run your program with `python ginger_beer_machine.py`. At your `Insert Coin`: prompt, type `30` and press Enter. Your program should output:
 ```
 Amount Due: 50
 ```
@@ -60,7 +60,7 @@ Change Owed: 10
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_ginger_beer_machine.py
+pytest .\tests\loops\test_ginger_beer_machine.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -83,7 +83,7 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 ### Codespace terminal 
 
-At the `/lesson_2 $` prompt in your terminal:
+At the `/loops $` prompt in your terminal:
 ```
 git add -A 
 ```

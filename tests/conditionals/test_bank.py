@@ -1,5 +1,5 @@
 import pytest
-from lesson_1.bank import greeting
+from conditionals.bank import greeting
 
 testdata = [
     ('Hello', 0),

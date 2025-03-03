@@ -1,4 +1,4 @@
-from lesson_0.faces import convert
+from function_variables.faces import convert
 
 def test_faces():
     # Add your test cases here

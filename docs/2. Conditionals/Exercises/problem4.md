@@ -22,9 +22,9 @@ Note that, just as `python` itself is an interpreter for Python, so will your `i
     will assign `1` to `x`, `+` to `y`, and `1` to `z`.
 
 ## Before You Begin
-From the root of your repository execute `cd lesson_1` So your current working directory is ...		
+From the root of your repository execute `cd conditionals` So your current working directory is ...		
 ```
-/lesson_1 $:
+/conditionals $:
 ```
 Next execute
 ```
@@ -36,7 +36,7 @@ to make a file called `interpreter.py` where you’ll write your program.
     Your program must have a function called `calculate` that takes 3 parameters: `x`, `y`, and `z`. These parameters will be strings representing numbers or mathematical operators. For example, if the user types `1 + 1`, then `x` would be `"1"`, `y` would be `"+"`, and `z` would be `"1"`. It should return the result of the calculation as a float.
 
 # How to Test
-Here’s how to test your code manually. At the `lesson_1/ $` prompt in your terminal: :
+Here’s how to test your code manually. At the `conditionals/ $` prompt in your terminal: :
 
 1. Run your program with `python interpreter.py`. Type `1 + 1` and press Enter. Your program should output:
 ```
@@ -59,7 +59,7 @@ Here’s how to test your code manually. At the `lesson_1/ $` prompt in your ter
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_interpreter.py
+pytest .\tests\conditionals\test_interpreter.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -82,7 +82,7 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 #### Codespace terminal 
 
-At the /lesson_1/bank $ prompt in your terminal:
+At the /conditionals/bank $ prompt in your terminal:
 ```
 git add -A 
 ```

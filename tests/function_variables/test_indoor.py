@@ -1,4 +1,4 @@
-from lesson_0.indoor import indoor
+from function_variables.indoor import indoor
 
 string_input = "Hello, world2!"
 

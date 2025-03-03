@@ -12,9 +12,9 @@ In a file called `bank.py`, implement a program that prompts the user for a gree
 
 ## Before You Begin
 
-From the root of your repository execute cd `lesson_1` So your current working directory is ...
+From the root of your repository execute cd `conditionals` So your current working directory is ...
 ```
-/lesson_1 $:
+/conditionals $:
 ```
 Next execute
 ```
@@ -50,7 +50,7 @@ $100
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_bank.py
+pytest .\tests\conditionals\test_bank.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -73,7 +73,7 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 #### Codespace terminal 
 
-At the /lesson_1/bank $ prompt in your terminal:
+At the /conditionals/bank $ prompt in your terminal:
 ```
 git add -A 
 ```

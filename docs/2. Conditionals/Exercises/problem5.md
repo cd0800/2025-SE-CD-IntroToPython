@@ -27,9 +27,9 @@ if __name__ == "__main__":
     - Keep in mind that there are 60 minutes in 1 hour.
 
 ## Before You Begin
-From the root of your repository execute `cd lesson_1` So your current working directory is ...		
+From the root of your repository execute `cd conditionals` So your current working directory is ...		
 ```
-/lesson_1 $:
+/conditionals $:
 ```
 Next execute
 ```
@@ -65,7 +65,7 @@ nothing
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_meal.py
+pytest .\tests\conditionals\test_meal.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -88,7 +88,7 @@ If you are using codespaces, you can commit your changes directly from the Codes
 
 #### Codespace terminal 
 
-At the `/lesson_1/meal $` prompt in your terminal:
+At the `/conditionals/meal $` prompt in your terminal:
 ```
 git add -A 
 ```

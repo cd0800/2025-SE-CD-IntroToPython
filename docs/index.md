@@ -72,7 +72,7 @@ The repository is structured as follows:
 
 ## Course Basics
 
-The intention is for you to start from [Lesson 0](./0.%20Functions_Variables/index.md) and work through each lesson in order. Each lesson will have a corresponding set of exercises or problems that you should complete. The solutions to these exercises should be placed in the `src/` directory. As an example, if you are working on the Indoor voice problem from [Lesson 0](./0.%20Functions_Variables/Exercises/problem1.md), your solutions should be placed in `src/lesson_0/indoor.py`.
+The intention is for you to start from [Lesson 0](./0.%20Functions_Variables/index.md) and work through each lesson in order. Each lesson will have a corresponding set of exercises or problems that you should complete. The solutions to these exercises should be placed in the `src/` directory. As an example, if you are working on the Indoor voice problem from [Lesson 0](./0.%20Functions_Variables/Exercises/problem1.md), your solutions should be placed in `src/function_variables/indoor.py`.
 
 ## Submission
 

@@ -22,9 +22,9 @@ In `deep.py`, implement a program that prompts the user for the answer to the Gr
     - It’s okay if your output or the user’s wraps onto multiple lines.
 
 ## Before You Begin
-From the root of your repository execute `cd lesson_1` So your current working directory is ...		
+From the root of your repository execute `cd conditionals` So your current working directory is ...		
 ```
-/lesson_1 $:
+/conditionals $:
 ```
 Next execute
 ```
@@ -58,7 +58,7 @@ No
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-pytest .\tests\lesson_1\test_deep.py
+pytest .\tests\conditionals\test_deep.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.

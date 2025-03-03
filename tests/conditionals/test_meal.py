@@ -1,5 +1,5 @@
 import pytest
-from lesson_1.meal import convert
+from conditionals.meal import convert
 
 testdata = [
     ('7:00','breakfast time'),
