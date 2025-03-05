@@ -92,6 +92,15 @@ For example, if you want to check that your code is working correctly for the `i
 pytest -k "indoor"
 ```
 
+## Getting New Lessons
+
+To get new lessons, simply sync the latest changes from the repository. You can do this in GitHub's codespaces or locally.
+
+Follow these [instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
+
+
+
+
 
 
 
