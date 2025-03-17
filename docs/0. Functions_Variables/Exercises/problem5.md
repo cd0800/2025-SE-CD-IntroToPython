@@ -53,9 +53,9 @@ Assume that the user will input values in the expected formats.
 ## Before You Begin
 
 1. Ensure you are in the root directory of the repository that you cloned to your machine.
-2. Change directory to `src/lesson_0/` in your terminal window.
+2. Change directory to `src/function_variables/` in your terminal window.
 ```
-cd src/lesson_0/
+cd src/function_variables/
 ```
 3. create or open the file `gst.py`
 ```
@@ -83,7 +83,7 @@ GST will be ¥3.75
 You can execute the below to check your code using `pytest` from the root directory.
 
 ```
-.\tests\lesson_0\test_gst.py
+.\tests\function_variables\test_gst.py
 ```
 
 A green output from running the test means it was successful. A red output means there is a bug in your code that you need to fix.
@@ -92,11 +92,27 @@ A green output from running the test means it was successful. A red output means
 
 From github desktop or the command line, commit your changes and push them to your repository.
 
-### Commandline 
-You will need to have installed `git-scm` for this to work.
+### Codespaces
+If you are using codespaces, you can commit your changes directly from the Codespace interface. Click on the Source Control icon in the left sidebar, then click on the "..." button and select "Commit to main". Enter a commit message and click "Commit".
 
-```bash
-git add .
-git commit -m "Your message here"
-git push origin main
+#### Codespace terminal or your local terminal. 
+
+!!! Note
+    You will need to have installed `git-scm` for this to work locally
+
+At the `/datatypes $` prompt in your terminal:
 ```
+git add -A 
+```
+Add all changed files in the repository to be committed
+```
+git commit -m "your message here"
+```
+Commit all changes in the REPO with the comment “your message here“ note: If the file is not complete, adjust the comment to describes what is being committed
+!!! Note
+    Remember to replace "your message here" with a meaningful commit message that describes your changes.
+
+```
+git push 
+```
+Push all changes to the repo.
